@@ -4,10 +4,10 @@ This repository ~is~ was meant to provide an example for *forking* a repository 
 
 Now it's just a git(hub) playground for me.
 
-Overhaul 0
+Overhaul ~0~ 1
 
-some stuff
+removed ~some stuff~
 
-some more stuff
+no more  stuff
 
-end.
+just the beginning.
